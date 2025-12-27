@@ -13,6 +13,7 @@ A simple Spring Boot REST API project built for learning purposes.
 - RESTful API
 - PostgreSQL / H2 (optional)
 - Lombok
+- DBeaver (database management & query testing)
 
 ## Features
 - Member CRUD operations
