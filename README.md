@@ -1,9 +1,8 @@
-# -Repo
-👉 spring-boot-member-api
 
-# Spring Boot Member API
 
-A simple Spring Boot REST API project built for learning purposes.
+## Spring Boot Member API
+
+A simple Spring Boot REST API project built to practice Java backend development and understand real-world application structure.
 
 ## Tech Stack
 - Java 17
@@ -19,12 +18,17 @@ A simple Spring Boot REST API project built for learning purposes.
 
 ## Features
 - Member CRUD operations
-- REST endpoints
-- Basic exception handling
+- RESTful endpoints
 - Layered architecture (Controller, Service, Repository)
 
+## Sample Endpoints
+- `GET /rest/api/member/list`
+- `PUT /rest/api/member/save`
+- `PUT /rest/api/member/update/{id}`
+- `DELETE /rest/api/member/delete/{id}`
+
 ## Goal
-This project is created to improve my Java Backend skills and to understand how real-world backend applications are structured.
+This project was created to improve my Java Backend skills, practice REST API development, and gain experience with a layered Spring Boot architecture.
 
 ## Author
 Ilkin Alizada
